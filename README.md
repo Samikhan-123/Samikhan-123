@@ -35,4 +35,4 @@ I am a **Full-Stack Developer** who loves turning complex problems into simple, 
 - 🌐 Website: skfullportfolio.netlify.app
 
 ---
-*"Code is poetry, especially when it recovers gracefully from a crash."*
+*"The best error message is the one that never has to be shown."*

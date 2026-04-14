@@ -30,7 +30,7 @@ I am a **Full-Stack Developer** who loves turning complex problems into simple, 
 ---
 
 ### 🤝 Let's Connect
-- 📧 Email: notsamikhannn@gmail.com
+- 📧 Email: isamikhan.dev@gmail.com
 - 💼 LinkedIn: linkedin.com/in/muhammad-samiullah-khan-00323823a
 - 🌐 Website: skfullportfolio.netlify.app
 

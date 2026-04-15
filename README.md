@@ -24,12 +24,14 @@ I am a **Full-Stack Developer** who loves turning complex problems into simple, 
 - **Open Source**: I enjoy contributing to the community and building reusable UI components.
 ---
 ### 📊 GitHub Stats
-![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samikhan-123&show_icons=true&theme=nord&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samikhan-123&layout=compact&theme=nord&cache_seconds=1800)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samikhan-123&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samikhan-123&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=samikhan-123&theme=tokyonight&hide_border=true)
+
 ---
 ### 🤝 Let's Connect
 - 📧 Email: isamikhan.dev@gmail.com
 - 💼 LinkedIn: linkedin.com/in/muhammad-samiullah-khan-00323823a
-- 🌐 Website: skfullportfolio.netlify.app
+- 🌐 Website: sami-dev-portfolio
 ---
 *"The best error message is the one that never has to be shown."*
